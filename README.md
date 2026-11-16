@@ -101,7 +101,7 @@ The analysis highlights important supply chain performance indicators:
 
 ## 🖼️ Project Visuals
 
-The `.images` folder contains supporting visuals and screenshots of the project, illustrating the analytical process and key findings.
+The `.images` folder contains supporting visuals and screenshots of the project, illustrating the analytical process or roadmap.
 
 ## 📁 Repository Structure
 
