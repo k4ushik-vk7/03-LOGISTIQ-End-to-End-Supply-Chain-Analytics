@@ -108,7 +108,7 @@ The `.images` folder contains supporting visuals and screenshots of the project,
 ```text
 03-LOGISTIQ-End-to-End-Supply-Chain-Analytics/
 │
-├── .images/                              # Project screenshots and visualisations
+├── overview .images/                    # Project screenshots and visualisations
 │
 ├── DataCoSupplyChainDataset.csv         # Supply chain dataset
 │
